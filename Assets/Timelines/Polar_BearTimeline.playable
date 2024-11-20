@@ -313,7 +313,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: juicy-splash-104642
+    m_DisplayName: Sips
   - m_Version: 1
     m_Start: 1.8333333333333333
     m_ClipIn: 1.9333333333333336
