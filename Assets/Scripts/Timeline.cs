@@ -8,7 +8,6 @@ public class Timeline : MonoBehaviour
 
     public PlayableDirector timeline;
 
-
     private void OnTriggerEnter(Collider other)
     {
         timeline.Play();
